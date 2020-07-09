@@ -1,4 +1,13 @@
-# gitignored for easybank
+# gitignored for easybank #
 
-# Remove folder
+### Remove folder ###
 easybank-landing-page-master
+node_modules
+src
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
